@@ -1,0 +1,15 @@
+/*para poner cosas bonitas*/
+h1,
+h2,
+th,
+td,
+li {
+    color: blanchedalmond;
+    /*llame a cada etiqueta y cambie el color a las letras*/
+}
+
+table,
+th,
+td {
+    border: 5px solid firebrick;
+}
